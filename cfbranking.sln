@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cfbranking", "cfbranking.csproj", "{93E3C2BE-0186-4B42-B49B-678768787A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E3C2BE-0186-4B42-B49B-678768787A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E3C2BE-0186-4B42-B49B-678768787A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E3C2BE-0186-4B42-B49B-678768787A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E3C2BE-0186-4B42-B49B-678768787A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Code\cfbranking\cfbranking\bin\Debug\cfbranking.exe.config
+C:\Code\cfbranking\bin\Debug\cfbranking.exe.config
+C:\Code\cfbranking\bin\Debug\cfbranking.exe
+C:\Code\cfbranking\bin\Debug\cfbranking.pdb
+C:\Code\cfbranking\obj\Debug\cfbranking.csprojResolveAssemblyReference.cache
+C:\Code\cfbranking\obj\Debug\cfbranking.Properties.Resources.resources
+C:\Code\cfbranking\obj\Debug\cfbranking.csproj.GenerateResource.Cache
+C:\Code\cfbranking\obj\Debug\cfbranking.exe
+C:\Code\cfbranking\obj\Debug\cfbranking.pdb
+C:\Code\cfbranking\obj\Debug\cfbranking.Form1.resources
